@@ -58,3 +58,12 @@ p.name {
 	color: white;
 }
 
+#updated {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: white;
+	padding: .75em;
+	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
